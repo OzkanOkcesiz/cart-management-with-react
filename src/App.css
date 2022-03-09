@@ -1,0 +1,28 @@
+.navbar{
+  margin-bottom: 20px;
+}
+
+.navbar-collapse {
+  justify-content: end;
+}
+
+.navbar-collapse .navbar-nav {
+  margin-right: 0 !important;
+}
+
+.container-fluid {
+  padding-left: 0 !important;
+}
+
+.prj-name {
+  text-decoration: none;
+  color: #000;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.dropdown-menu .dropdown-item .badge {
+  margin: 3px;
+}

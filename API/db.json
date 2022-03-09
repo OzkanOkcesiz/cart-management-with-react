@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "productName": "Cappy Limonata",
+      "quantityPerUnit": "1 lt",
+      "unitPrice": "8 tl",
+      "unitsInStock": 54
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "CocaCola",
+      "quantityPerUnit": "2,5 lt",
+      "unitPrice": "15 tl",
+      "unitsInStock": 58
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Fanta",
+      "quantityPerUnit": "2,5 lt",
+      "unitPrice": "15 tl",
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "productName": "Pepsi",
+      "quantityPerUnit": "1 lt",
+      "unitPrice": "7,5 tl",
+      "unitsInStock": 68
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "productName": "İçim Kefir",
+      "quantityPerUnit": "1 lt",
+      "unitPrice": "12 tl",
+      "unitsInStock": 120
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "productName": "Erikli Su",
+      "quantityPerUnit": "5 lt.",
+      "unitPrice": "8 tl",
+      "unitsInStock": 15
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Pınar Tereyağ",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "132 tl",
+      "unitsInStock": 100
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "productName": "Yayla Prinç",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "21 tl",
+      "unitsInStock": 29
+    },
+    {
+      "id": 10,
+      "categoryId": 2,
+      "productName": "Yayla Bulgur",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "18 tl",
+      "unitsInStock": 31
+    },
+    {
+      "id": 11,
+      "categoryId": 2,
+      "productName": "Yayla Fasulye",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "42 tl",
+      "unitsInStock": 22
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "productName": "Yayla Nohut",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "43 tl",
+      "unitsInStock": 86
+    },
+    {
+      "id": 13,
+      "categoryId": 3,
+      "productName": "Elma",
+      "quantityPerUnit": "650 gr",
+      "unitPrice": "7 tl",
+      "unitsInStock": 68
+    },
+    {
+      "id": 14,
+      "categoryId": 3,
+      "productName": "Armut",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "19 tl",
+      "unitsInStock": 35
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "productName": "Limon",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "13 tl",
+      "unitsInStock": 39
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Domates",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "19 tl",
+      "unitsInStock": 29
+    },
+    {
+      "id": 17,
+      "categoryId": 3,
+      "productName": "Salatalık",
+      "quantityPerUnit": "1 kg",
+      "unitPrice": "24 tl",
+      "unitsInStock": 0
+    },
+    {
+      "id": 18,
+      "categoryId": 4,
+      "productName": "Green Clean",
+      "quantityPerUnit": "1 lt",
+      "unitPrice": "42 tl",
+      "unitsInStock": 42
+    },
+    {
+      "id": 19,
+      "categoryId": 4,
+      "productName": "Domestos",
+      "quantityPerUnit": "1,85 lt",
+      "unitPrice": "27 tl",
+      "unitsInStock": 25
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "productName": "Bingo Matik",
+      "quantityPerUnit": "6 kg",
+      "unitPrice": "84 tl",
+      "unitsInStock": 40
+    },
+    {
+      "id": 21,
+      "categoryId": 4,
+      "productName": "Pril Deterjan",
+      "quantityPerUnit": "1,35 kg",
+      "unitPrice": "26 tl",
+      "unitsInStock": 3
+    },
+    {
+      "id": 22,
+      "categoryId": 4,
+      "productName": "Vernel Max",
+      "quantityPerUnit": "1,4 lt",
+      "unitPrice": "36 tl",
+      "unitsInStock": 104
+    },
+    {
+      "id": 23,
+      "categoryId": 4,
+      "productName": "Cif Power",
+      "quantityPerUnit": "750 ml",
+      "unitPrice": "22 tl",
+      "unitsInStock": 61
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "İçecek"
+    },
+    {
+      "id": 2,
+      "categoryName": "Temel Gıda"
+    },
+    {
+      "id": 3,
+      "categoryName": "Meyve&Sebze"
+    },
+    {
+      "id": 4,
+      "categoryName": "Temizlik"
+    }
+  ]
+}
